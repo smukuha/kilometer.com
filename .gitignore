@@ -1,0 +1,2 @@
+#ignore all .text.text files
+*.txt.txt
